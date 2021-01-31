@@ -1,0 +1,130 @@
+#body{
+	background-color: #f6b319;
+}
+.title h1{
+	font-family:Algerian;
+	color:white;
+	margin-top: 15px;
+	font-size: 40px;
+	font-weight: bold;
+	float:left;
+}
+#Logo-image{
+	float:left;
+	width: 170px;
+	height: 170px;
+	margin-top: 10px;
+	margin-left: 50px;
+	margin-bottom:10px;
+}
+#header{
+	background-color: #b01c52;
+	width:100%;
+}
+#tagline{
+	color:#66FF00;
+	font-size:1.1em;
+	line-height: 25px;
+}
+header a:hover, a:link, a:active, a:visited{
+	text-decoration: none;
+}
+#number{
+	float: right;
+	padding:2px;
+	margin-right:10px;
+	color: black;
+	margin-top:15px;
+	font-family:comic sans ms;
+	font-size:19.2px;
+}
+#branches{
+	color:black;
+	float:right;
+	clear:right;
+	margin-right:10px;
+	font-size:19.2px;
+	font-family:comic sans ms;
+	margin-bottom:5px;
+}
+#contact{
+	margin-top:15px;
+	margin-right:17.8px;
+}
+#intro{
+	color: red;
+	font-family:comic sans ms;
+}
+.intro-para{
+	font-size: 1.5em;
+}
+#co-watch{
+	font-size:1.3em;
+	font-family: times new roman;
+}
+#index{
+	color: green;
+	font-family:Californian FB;
+}
+#index-list{
+	font-size: 1.7em;
+	font-family: Agency FB;
+}
+.Subject-Title{
+	color:  #4a235a ;
+	font-family:Californian FB;
+	font-weight: bold;
+}
+.content, .list{
+	font-size: 1.7em;
+	margin: 0 80 10px 0;
+}
+.panel-footer{
+	background-color: #222 !important;
+	color: white;
+	border: 0px !important;
+	margin-top: 30px;
+}
+.name{
+	font-size: 1.2em;
+}
+.container-fluid .row section{
+	font-size: 1.1em;
+}
+.img{
+	width:100px;
+	height: 20px;
+}
+table, tr, td{
+	border: 1px solid black !important;
+	padding: 7px !important;
+}
+
+#discount{
+	color: red;
+	font-size: 1.2em;
+	clear: both;
+}
+.pull-right{
+	border: 2px solid black;
+	font-size:1.6em;
+	margin-right: 10px;
+	margin-bottom:10px;
+	background-color: yellow;
+	COLOR: green;
+}
+.top{
+	padding: 5px;
+}
+.pull-right:hover{
+	background-color: #ecf0f1;
+}
+.pull-right:active{
+	background-color:  #7b7d7d;
+}
+
+
+
+
+
+
