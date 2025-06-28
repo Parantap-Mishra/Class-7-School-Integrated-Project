@@ -38,5 +38,5 @@ If you're just getting started with coding like I was back then — *keep buildi
 
 ---
 
-🖥️ **Made with curiosity and a lot of trial and error — Class 7, 2019**  
+🖥️ **Made with curiosity and a lot of trial and error — Class 7, 2020**  
 ✨ **By [Parantap Mishra](https://github.com/parantap-mishra)**
